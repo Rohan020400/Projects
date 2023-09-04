@@ -1,0 +1,20 @@
+html, body{
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+img{
+    width: 260px;
+    border-radius: 110px;
+    padding: 20px;
+}
+ .header{
+    display: flex;
+    background: #15151565;
+ }
+ .bio{
+    margin: 20px;
+    color: greenyellow;
+ }
